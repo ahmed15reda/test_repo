@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Start Navbar */
+.navbar {
+  background-color: white;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+.nav-link {
+  color: black;
+}
+.nav-item i {
+  line-height: 40px;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+/* End Navbar */
+
+/* Start Header */
+header {
+  background-image: url('../images/bg.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+header h1 {
+  font-size: 60px;
+  line-height: 64px;
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+
+header p {
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+
+.btn {
+  padding: 13px 26px;
+  min-width: 200px;
+  line-height: 24px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 0;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 10px 3px;
+}
+
+.read {
+  background: #745cf9;
+  color: #fff;
+  border-color: #745cf9;
+}
+
+header .download {
+  color: #fff;
+  border-color: #fff;
+}
+/* End Header */
+
+.seo img {
+  width: 100%;
+}
+
+.seo .row {
+  padding: 100px 0;
+}
+
+.seo h3 {
+  font-size: 30px;
+  line-height: 33px;
+  font-weight: 400;
+  color: #0e1015;
+  margin-bottom: 24px;
+}
+
+.seo p {
+  font-weight: 400;
+  margin-bottom: 24px;
+  font-size: 14px;
+  color: #8c979e;
+  line-height: 24px;
+}
