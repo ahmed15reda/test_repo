@@ -94,3 +94,86 @@ header .download {
   color: #8c979e;
   line-height: 24px;
 }
+
+/* start Customer */
+#Customer
+{
+  background-image: url(../images/[demo.colorlib.com][157]photo-1451417379553-15d8e8f49cde.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#Customer .img-item img
+{
+  width: 12%;
+}
+/* end Customer */
+
+
+/* start Clients */
+#Clients h3
+{
+  font-weight: 400;
+  color: #0e1015;
+  font-size: 30px;
+  line-height: 33px;
+}
+#Clients .img-logo img
+{
+  width: 20%;
+  opacity: .7;
+  transition: all .2s;
+}
+#Clients .img-logo img:hover 
+{
+  cursor: pointer;
+  opacity: 1;
+
+}
+/* end Clients */
+
+
+/* start WordPress-theme */
+#WordPress-theme
+{
+  background: #f5f5f5;
+}
+
+#WordPress-theme .btn-download
+{
+  background: #745cf9;
+}
+#WordPress-theme h3
+{
+  font-size: 30px;
+  font-weight: 400;
+  color: #0e1015;
+  line-height: 45px;
+}
+
+/* end WordPress-theme */
+
+/* start footer */
+#footer
+{
+  background: #0e1015;
+}
+#footer a
+{
+  color: #fefefe;
+  opacity: .8;
+
+}
+#footer i
+{
+  transition: all .003s;
+}
+#footer i:hover
+{
+  color: #745cf9;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+/* end footer */
