@@ -104,6 +104,15 @@ header .download {
     line-height: 24px;
 }
 
+ /* Portfolio and parallax sections */
+ .Portfolio { background-color: #f5f5f5;}
+ .Parallax  
+ {
+   background-image: url(../images/pb.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+ }
+ /* Portfolio and parallax sections */
 
 /* start Customer */
 
